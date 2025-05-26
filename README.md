@@ -15,10 +15,10 @@ A simple plugin that adds a product search form with category filter and live AJ
 ## Screenshots
 
 ### 1. Frontend Search Form
-![Search Form](assets/screenshot-1.png)
+![Search Form](assets/Screenshot-1.png)
 
 ### 2. Live Suggestions Dropdown
-![Live Results](assets/screenshot-2.png)
+![Live Results](assets/Screenshot-2.png)
 
 ### 3. Woocommerce Category Dropdown
-![Category Dropdown](assets/screenshot-3.png)
+![Category Dropdown](assets/Screenshot-3.png)
